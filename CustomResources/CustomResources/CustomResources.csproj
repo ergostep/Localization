@@ -8,10 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Data" />
-    </ItemGroup>
-
-    <ItemGroup>
       <EmbeddedResource Update="Resources\Language.resx">
         <Generator>ResXFileCodeGenerator</Generator>
         <LastGenOutput>Language.Designer.cs</LastGenOutput>
